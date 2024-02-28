@@ -1,0 +1,9 @@
+# NP_ellipsis.txt
+# language: rus
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Граница Финландии с Россией длинная, _________ с Норвегией короткая, а ____ со Швецией - средняя.
+----
+Граница Финландии с Россией длинная, граница Финландии с Норвегией короткая, а граница Финландии со Швецией - средняя.
+#Van Holthenrichs & Maria Shardakova

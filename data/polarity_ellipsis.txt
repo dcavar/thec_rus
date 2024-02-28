@@ -1,0 +1,35 @@
+# polarity_ellipsis.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# language: rus
+# Notes: Да and нет constructions
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Петя в москву приксел, а Вася в петербург нет ____.
+----
+Петя в москву приксел, а Вася не приехал в петербург нет.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Ты поговорил и с Вася, и с Петя? C Вася да, а с Петя нет ____.
+---
+Ты поговорил и с Вася, и с Петя? Я поговорил с Вася, но я не поговорил с Петя.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+в москву я хочу экзат, а в Питерсберг нет ____.
+----
+в москву я хочу ехать, а в Питерсберг ехать не хочется.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Когда Петя пришел, я обрадовалься, а Вася нет ____.
+----
+Когда Петя пришел, я обрадовалься, когда пришел Вася, я не обрадовался.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Я видел машину, которую купил Петя, а Вася нет ____. 
+----
+Я видел машину, которую купил Петя, я не видел машину, которую купил Вася.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard

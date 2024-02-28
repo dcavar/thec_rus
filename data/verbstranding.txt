@@ -1,0 +1,29 @@
+# verbstranding.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# language: rus
+# Notes: 
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Тви познакомил Массу с Петей? Конечно познакомил ____.
+----
+Тви познакомил Массу с Петей? Конечно познакомил Массу с Петей.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Что Саша думает про лингвистику? Я уверен, что он ненавидит ____.
+----
+Что Саша думает про лингвистику? Я уверен, что он ненавидит лингвистику.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Я думал, что никто не знает ету песнйу, а на самом деле Маша спела ____.
+----
+Я думал, что никто не знает ету песнйу, а на самом деле Маша спела ету песнйу.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Я думал, что Саша будет пет ету песнйу, а на самом деле Маша будет ____.
+----
+Я думал, что Саша будет пет ету песнйу, а на самом деле Маша будет пет ету песнйу.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard

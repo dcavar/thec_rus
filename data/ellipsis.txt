@@ -154,13 +154,13 @@ B: Они взяли да меня и высекли.
 
 Вчера я не познакомил Машу с Сашей, но думаю, что завтра познакомлю ___.
 ----
-Вчера я не познакомил Машу с Сашей, но думаю, что завтра познакомил Машу с Сашей.
+Вчера я не познакомил Машу с Сашей, но думаю, что завтра познакомлю Машу с Сашей.
 # Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
 # added by Khai Willard
 
 Дина купила своей дочери школьные учебники, а Паша не купил ___.
 ----
-Дина купила своей дочери школьные учебники, а Паша нет купила своей дочери школьные учебники.
+Дина купила своей дочери школьные учебники, а Паша не купил своей дочери школьные учебники.
 # Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
 # added by Khai Willard
 
@@ -170,27 +170,15 @@ B: Они взяли да меня и высекли.
 # Andrei Sakharov - в борбе за мир
 # added by Khai Willard
 
-Я, нет. Но человек, положивший ___ в коробку, забыл Добавьте игрушки.
-----
-Я, нет. Но человек, положивший их в коробку, забыл Добавьте игрушки.
-# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
-# added by Khai Willard
-
 А он, даже если ___ захочет, не сможет...
 ----
 А он, даже если он захочет, не сможет...
 # Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
 # added by Khai Willard
 
-Я ездила туда не только в те дни, когда ___ танчевала
+Я ездила туда не только в те дни, когда ___ танцевала.
 ----
-Я ездила туда не только в те дни, когда я танчевала
-# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
-# added by Khai Willard
-
-Ты не боишься после того, как ___ упала?
-----
-Ты не волнуешься после того, как она упала?
+Я ездила туда не только в те дни, когда я танцевала.
 # Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
 # added by Khai Willard
 
@@ -218,9 +206,9 @@ Cледовательно, бросая камень, мальчик не уве
 # The Oxford Handbook of Ellipsis
 # added by Khai Willard
 
-Саша прочитал мою статью, а Дима прочитал твожу ___.
+Саша прочитал мою статью, а Дима прочитал твою ___.
 ----
-Саша прочитал мою статью, а Дима прочитал твожу статья.
+Саша прочитал мою статью, а Дима прочитал твою статью.
 # The Oxford Handbook of Ellipsis
 # added by Khai Willard
 

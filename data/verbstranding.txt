@@ -4,26 +4,28 @@
 # Notes: 
 # These are all grammatical examples. The elided positions are indicated by ___.
 
-Тви познакомил Массу с Петей? Конечно познакомил ____.
+Конечно ___ познакомил ____.
 ----
-Тви познакомил Массу с Петей? Конечно познакомил Массу с Петей.
+Конечно я познакомил Машу с Петей.
+B: Ты познакомил Машу с Петей?
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Что Саша думает про лингвистику? Я уверен, что он ненавидит ____.
+Я уверен, что он ненавидит ____.
 ----
-Что Саша думает про лингвистику? Я уверен, что он ненавидит лингвистику.
+Я уверен, что он ненавидит лингвистику.
+B: Что Саша думает про лингвистику?
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Я думал, что никто не знает ету песнйу, а на самом деле Маша спела ____.
+Я думал, что никто не знает эту песню, а на самом деле Маша спела ____.
 ----
-Я думал, что никто не знает ету песнйу, а на самом деле Маша спела ету песнйу.
+Я думал, что никто не знает эту песню, а на самом деле Маша спела эту песню.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Я думал, что Саша будет пет ету песнйу, а на самом деле Маша будет ____.
+Я думал, что Саша будет петь эту песню, а на самом деле Маша будет ____.
 ----
-Я думал, что Саша будет пет ету песнйу, а на самом деле Маша будет пет ету песнйу.
+Я думал, что Саша будет петь эту песню, а на самом деле Маша будет петь эту песню.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs

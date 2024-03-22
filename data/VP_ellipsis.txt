@@ -1,14 +1,14 @@
 # VP_ellipsis.txt
-# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# (C) 2023 by Khai Willard & Van Holthenrichs & Maria Shardakova
 # language: rus
 # Notes:
 # These are all grammatical examples. The elided positions are indicated by ___.
 
-Он сказал, что Катя будет читат эту лекцию, а на самом дело Cереза будет ___.
+Он сказал, что Катя будет читать эту лекцию, а на самом дело Cережа будет ___.
 ----
-Он сказал, что Катя будет читат эту лекцию, а на самом дело Cереза будет читат эту лекцию.
+Он сказал, что Катя будет читать эту лекцию, а на самом дело Cережа будет читать эту лекцию.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
 Андрей считает, что никто не будет делать это домашнее задание, но я буду ___.
 ----
@@ -16,29 +16,33 @@
 # The Oxford Handbook of Ellipsis
 # added by Khai Willard
 
-Kто будет ездит в Москву? Только Петя будет ___.
+Только Петя будет ___.
 ----
-Kто будет ездит в Москву? Только Петя будет ездит в Москву.
+Только Петя будет ехать в Москву.
+B: Kто будет ехать в Москву? 
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Когда ты будешь читать курс по типологии? Я в этом году ___.
+Я ___ в этом году.
 ----
-Когда ты будешь читать курс типологии? Я в этом году я буду читать курс типологии.
+Я буду читать курс по типологии в этом году.
+B: Когда ты будешь читать курс по типологии? 
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Kому ты будешь помогает? Я всем буду помогу, ___ даже Петя буду.
+Я всем буду помагать, даже Пете ___ буду ___.
 ----
-Kому ты будешь помогает? Я всем буду помогу, я помогу даже Пете.
+Я всем буду помагать, даже Пете я буду помагать.
+B: Kому ты будешь помогать? 
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Какой язык ты будешь учит? Английский я не буду учит, ___ только Французский буду.
+Английский язык я не буду изучать, только французский ___ буду ___.
 ----
-Какой язык ты будешь учит? Английский я не буду учит, Я буду изучать только французский язык.
+Английский язык я не буду изучать, только французский язык я буду изучать.
+B: Какой язык ты будешь учить? 
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
 Я не хотел ___, но вчера мы ходили в кино.
 ----

@@ -1,7 +1,8 @@
 # sluicing.txt
-# All examples by Vance Holthenrichs & Maria Shardakova
+# Some examples by Van Holthenrichs & Maria Shardakova
+# Some examples taken from Russian literature (Tolstoy & Dostoyevsky) and added by Van Holthenrichs
 # language: rus
-# Notes:
+# Notes: Sluicing was by and far the easiest type of ellipsis to generate data for by drawing from existing literature. 
 # These are all grammatical examples. The elided positions are indicated by ___.
 
 Я говорю по-русски, но не очень хорошо ___.
@@ -106,3 +107,128 @@ B: Иван прыгнул в колодец!
 ----
 Иван улыбается, и Миша знает почему Иван улыбается.
 #Van Holthenrichs & Maria Shardakova
+
+Верю, да не знаю во что ___.
+----
+Верю, да не знаю во что верю.
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Он вдруг бросился и больно укусил мне палец, не знаю за что ___.
+----
+Он вдруг бросился и больно укусил мне палец, не знаю за что он вдруг бросился и больно укусил мне палец.
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Я не знаю, для чего ___. 
+----
+Я не знаю, для чего берут в таких случаях что-нибудь в руку.
+B: Ну, для чего берут в таких случаях что-нибудь в руку? 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Черт ее знает из чего ___. 
+----
+Черт ее знает из чего тряпка была.
+B: Из чего эта тряпка была: из холста, из полотна? 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+А чтоб истина скорей воссияла, вот зачем ___.
+----
+А чтоб истина скорей воссияла, вот зачем упразднять.
+B: Да зачем упразднять?
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Дмитрия же не застанет еще вернее, и ему предчувствовалось почему ___.
+----
+Дмитрия же не застанет еще вернее, и ему предчувствовалось почему Дмитрия же не застанет еще вернее. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Теперь уж Алеша был почти уверен в этом, сам не зная еще почему ___. 
+----
+Теперь уж Алеша был почти уверен в этом, сам не зная еще почему был почти уверен в этом. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Преследовать и звать его он не захотел, он знал почему ___. 
+----
+Преследовать и звать его он не захотел, он знал почему преследовать и звать его он не захотел.
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Почему ___?
+----
+Почему не будете больше играть?
+B: Не будете больше играть. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Плюньте и уйдите, вот почему ___. 
+----
+Плюньте и уйдите, вот почему не будем больше играть. 
+B: Почему не будем больше играть? 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+От кого же ___? 
+----
+От кого же я знал, что он повесился?
+B: А ведь я знал, что он повесился. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Не знаю от кого ___.
+----
+Не знаю от когоя знал, что он повесился.
+B: А ведь я знал, что он повесился. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Как ___?
+----
+Как убедиться же возможно?
+B: Но доказать тут нельзя ничего, убедиться же возможно. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Чем ___?
+----
+Чем убедиться же возможно?
+B: Но доказать тут нельзя ничего, убедиться же возможно. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Как он убит, чем ___ и как ___? 
+----
+Как он убит, чем он убит и как он убит? 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Убил Смердяков, но как ___? 
+----
+Убил Смердяков, но как убил Смердяков?
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Да за что же ___, за что ___?
+----
+Да за что же взяли меня и высекли, за что взяли меня и высекли?
+B: Они взяли да меня и высекли. 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Кити не только уверила его, что она его любит, но даже, отвечая на его вопрос, за что она любит его, объяснила ему, за что ___. 
+----
+Кити не только уверила его, что она его любит, но даже, отвечая на его вопрос, за что она любит его, объяснила ему, за что она его любит. 
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs
+
+Ты в клубе пил, пил, играл и потом поехал… к кому ___? 
+----
+Ты в клубе пил, пил, играл и потом поехал… к кому ты поехал? 
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs
+
+Да, я распоряжусь, — решила она и, возвращаясь к прежним мыслям, вспомнила, что что-то важное, душевное было не додумано еще, и она стала вспоминать что ___. 
+----
+Да, я распоряжусь, — решила она и, возвращаясь к прежним мыслям, вспомнила, что что-то важное, душевное было не додумано еще, и она стала вспоминать что было не додумано еще. 
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs
+
+А они нападают на Анну. За что ___?
+----
+А они нападают на Анну. За что они нападают на Анну?
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs
+
+Я страдаю, ты страдаешь. За что ___? 
+----
+Я страдаю, ты страдаешь. За что мы страдаем? 
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs
+
+Он видел, что в душе ее совершалось что-то прекрасное, но что ___?
+----
+Он видел, что в душе ее совершалось что-то прекрасное, но что совершалось? 
+#from Tolstoy's Anna Karenina; added by Van Holthenrichs

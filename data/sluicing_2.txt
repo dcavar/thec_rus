@@ -1,4 +1,4 @@
-# sluicing.txt
+# sluicing_2.txt
 # (C) 2023 by Khai Willard & Van Holthenrichs
 # language: rus
 # Notes:

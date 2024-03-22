@@ -1,69 +1,8 @@
 # sluicing.txt
-# (C) 2023 by Vance Holthenrichs & Khai Willard <khwillar@iu.edu>
+# All examples by Vance Holthenrichs & Maria Shardakova
 # language: rus
 # Notes:
 # These are all grammatical examples. The elided positions are indicated by ___.
-
-Кто-то съел все печенья, но я не знаю, кто ___.
-----
-Кто-то съел все печенья, но я не знаю, кто съел все печенья.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Марина увидела что-то странное, но я не знаю что ___.
-----
-Марина увидела что-то странное, но я не знаю что Марина увидела.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Митя где-то будет праздновать день рождения, но не знаю где ___.
-----
-Митя где-то будет праздновать день рождения, но не знаю где Митя будет праздновать день рождения.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Когда ___?
-----
-Когда придет Вова?
-B: Вова когда-то придет. 
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Я не знаю что ___, но что-то Марина увидела.
-----
-Я не знаю что видела Марина, но что-то Марина увидела.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Маша кому-то что-то подарила, но я не помню кому что ___.
-----
-Маша кому-то что-то подарила, но я не помню кому что Маша подарила.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Кто-то что-то пел, но я не понимал, кто ___ и что ___.
-----
-Кто-то что-то пел, но я не понимал, кто это был и что они пели. 
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Иван что-то купил, но я не помню, чтo ___.
-----
-Иван что-то купил, но я не помню, что Иван купил.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Дети с кем-то дрались, но мне не важно с кем ___.
-----
-Дети с кем-то дрались, но мне не важно, с кем воевали дети.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
-
-Каждый пригласил кого-то танцевать, но я не помню, кто кого ___.
-----
-Каждый пригласил кого-то танцевать, но я не помню, кто кого пригласил.
-# The Oxford Handbook of Ellipsis
-# added by Khai Willard
 
 Я говорю по-русски, но не очень хорошо ___.
 ----

@@ -1,53 +1,53 @@
 # stripping.txt
-# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# (C) 2023 by Khai Willard <khwillar@iu.edu> & Van Holthenrichs
 # language: rus
 # Notes:
 # These are all grammatical examples. The elided positions are indicated by ___.
 
 Я должен Мише позвонить или ты ____?
 ----
-Я должен Мише позвонить или ты должен позвонить Мише
+Я должен Мише позвонить или ты должен Мише позвонить?
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Она попросила Мишу остаться, и Вася тоже.
+Она попросила Мишу остаться, и Вася тоже ___.
 ----
-Она попросила Мишу остаться, и она попросила Вася тоже остаться.
+Она попросила Мишу остаться, и Вася тоже попросил Мишу остаться.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
 Ваня сказал, что Вика поедет в Петербург, и я думаю, что Маша тоже ____.
 ----
 Ваня сказал, что Вика поедет в Петербург, и я думаю, что Маша тоже поедет в Санкт-Петербург.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Ваня сказала, что Вика тебя позвала гулят, а я думал, что меня ____.
+Ваня сказала, что Вика тебя позвала гулять, а я думал, что ___ меня ____.
 ----
-Ваня сказала, что Вика тебя позвала гулят, а я думал, что Вика меня позвала гулят.
+Ваня сказала, что Вика тебя позвала гулять, а я думал, что Вика меня позвала гулять.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Ольга хорошо говорит по-немецки, и Катя ____ тоже.
+Ольга хорошо говорит по-немецки, и Катя тоже ___.
 ----
 Ольга хорошо говорит по-немецки, и Катя тоже хорошо говорит по-немецки.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Ольга уехала из своей страны в молодом возрасте, и Катя ____ тоже.
+Ольга уехала из своей страны в молодом возрасте, и Катя тоже ___.
 ----
 Ольга уехала из своей страны в молодом возрасте, и Катя тоже уехала из своей страны в молодом возрасте.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Ольга встретились в магазин и Kатжа ____.
+И Ольгу встретили в магазине, и Kатю ____.
 ----
-Ольга встретились в магазин и Kатжа встретились в магазин.
+И Ольгу встретили в магазине, и Kатю встретили в магазине .
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
 Kирилл не позвал Любу в кино, и Bася тоже ____.
 ----
 Kирилл не позвал Любу в кино, и Bася не позвал Любу в кино.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs

@@ -12,4 +12,9 @@
 ----
 Он вдруг сообразил, что ведь он хотел сейчас идти в дом Федора Павловича, узнать, не произошло ли чего у Федора Павловича.
 #from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
-#For practical purposes I include this PP ellipsis in with the NP ellipsis
+#I include this PP ellipsis in with the NP ellipsis
+
+Подруга всегда реккомедует мне новую музыку, но я ещё слушаю старую ___.
+----
+Подруга всегда реккомедует мне новую музыку, но я ещё слушаю старую музыку.
+#Van Holthenrichs & Maria Shardakova

@@ -51,3 +51,33 @@
 Бизнесмен получил два ранения, а его водитель получил три ранения.
 # The Oxford Handbook of Ellipsis
 # added by Khai Willard; edited by Van Holthenrichs
+
+Вчера я не познакомил Машу с Сашей, но ___ думаю, что завтра ___ познакомлю ___.
+----
+Вчера я не познакомил Машу с Сашей, но я думаю, что завтра я познакомлю Машу с Сашей.
+# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
+# added by Khai Willard; edited by Van Holthenrichs
+
+Он начинает действовать открыто... подчеркивая, что ___ выступает...
+----
+Он начинает действовать открыто... подчеркивая, что он выступает...
+# Andrei Sakharov - в борбе за мир
+# added by Khai Willard; edited by Van Holthenrichs
+
+А он, даже если ___ захочет, не сможет...
+----
+А он, даже если он захочет, не сможет...
+# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
+# added by Khai Willard; edited by Van Holthenrichs
+
+Я ездила туда не только в те дни, когда ___ танцевала.
+----
+Я ездила туда не только в те дни, когда я танцевала.
+# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
+# added by Khai Willard; edited by Van Holthenrichs
+
+Володя сказал, что ___ купит зеленую лампу.
+----
+Володя сказал, что он купит зеленую лампу.
+# Vera Gribanova - Verb-stranding verb phrase ellipsis and the structure of the Russian verbal complex
+# added by Khai Willard; edited by Van Holthenrichs

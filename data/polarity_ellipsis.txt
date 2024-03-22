@@ -1,35 +1,36 @@
 # polarity_ellipsis.txt
-# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# (C) 2023 by Khai Willard <khwillar@iu.edu> & Van Holthenrichs
 # language: rus
-# Notes: Да and нет constructions
+# Notes: This нет/не alternation is seemingly endemic to East Slavic languages. We may assume a degree of allomorphy here.
 # These are all grammatical examples. The elided positions are indicated by ___.
 
-Петя в москву приксел, а Вася в петербург нет ____.
+Петя в Москву приехал, а Вася в Петербург нет ____.
 ----
-Петя в москву приксел, а Вася не приехал в петербург нет.
+Петя в Москву приехал, а Вася в петербург не приехал.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Ты поговорил и с Вася, и с Петя? C Вася да, а с Петя нет ____.
+C Васей да ___, а с Петей ___ нет ____.
 ---
-Ты поговорил и с Вася, и с Петя? Я поговорил с Вася, но я не поговорил с Петя.
+С Васей, да, я поговорил, а с Петей я не поговорил.
+B: Ты поговорил и с Васей, и с Петей?
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-в москву я хочу экзат, а в Питерсберг нет ____.
+В Москву я хочу поехать, а в Петербург ___ нет ____.
 ----
-в москву я хочу ехать, а в Питерсберг ехать не хочется.
+В Москву я хочу поехать, а в Петерберг я не хочу поехать.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
-Когда Петя пришел, я обрадовалься, а Вася нет ____.
+Когда Петя пришел, я обрадовался, а Вася нет ____.
 ----
-Когда Петя пришел, я обрадовалься, когда пришел Вася, я не обрадовался.
+Когда Петя пришел, я обрадовался, а Вася не обрадовался.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs
 
 Я видел машину, которую купил Петя, а Вася нет ____. 
 ----
-Я видел машину, которую купил Петя, я не видел машину, которую купил Вася.
+Я видел машину, которую купил Петя, а Вася не видел машину, которую купил Петя.
 # The Oxford Handbook of Ellipsis
-# added by Khai Willard
+# added by Khai Willard; edited by Van Holthenrichs

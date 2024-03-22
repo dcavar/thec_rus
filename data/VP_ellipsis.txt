@@ -1,5 +1,6 @@
 # VP_ellipsis.txt
 # Most examples by Van Holthenrichs & Maria Shardakova
+# Some examples taken from Russian literature (Tolstoy & Dostoyevsky) and added by Van Holthenrichs
 # language: rus
 # Notes:
 # These are all grammatical examples. The elided positions are indicated by ___.

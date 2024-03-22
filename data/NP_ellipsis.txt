@@ -7,3 +7,9 @@
 ----
 Граница Финландии с Россией длинная, граница Финландии с Норвегией короткая, а граница Финландии со Швецией - средняя.
 #Van Holthenrichs & Maria Shardakova
+
+Он вдруг сообразил, что ведь он хотел сейчас идти в дом Федора Павловича, узнать, не произошло ли чего ___.
+----
+Он вдруг сообразил, что ведь он хотел сейчас идти в дом Федора Павловича, узнать, не произошло ли чего у Федора Павловича.
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+#For practical purposes I include this PP ellipsis in with the NP ellipsis

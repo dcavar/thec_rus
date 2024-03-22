@@ -1,0 +1,53 @@
+# gapping_2.txt
+# (C) 2023 by Khai Willard & Van Holthenrichs
+# language: rus
+# Notes: 
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Митя пил чай, а Надя ___ кофе.
+----
+Митя пил чай, а Надя пила кофе.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Петя перестал выходить покурать по утрам, а Вова ___ по вечерам.
+----
+Петя перестал выходить покурать по утрам, а Вова перестала выходить покурить по вечерам.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Петя хочет начать изучать французский язык, а Вася ___ немецкий ___. 
+----
+Петя хочет начать изучать французский язык, а Вася хочет начать изучать немецкий язык. 
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Петя хочет начать изучать французский язык, а Вася пытается ___ немецкий ___.
+----
+Петя хочет начать изучать французский язык, а Вася пытается начать изучать немецкий язык.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Митя предложил Кате пойти в кино, а Катя ___ Мите ___ в музей.
+----
+Митя предложил Кате пойти в кино, а Катя предложила Мите пойти в музей.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Я читал историю про эльфов, а ты ___ про гномов.
+----
+Я читал историю про эльфов, а ты читал историю про гномов.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Петя не может получать $3000, а его заместитель ___ $4000.
+----
+Петя не может получать $3000, а его заместитель не может получать $4000.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Бизнесмен получил два ранения, а его водитель ___ три ранения.
+----
+Бизнесмен получил два ранения, а его водитель получил три ранения.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs

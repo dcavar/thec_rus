@@ -1,0 +1,38 @@
+# VP_ellipsis.txt
+# (C) 2023 by Khai Willard & Van Holthenrichs
+# language: rus
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Он сказал, что Катя будет читать эту лекцию, а на самом дело Cережа будет ___.
+----
+Он сказал, что Катя будет читать эту лекцию, а на самом дело Cережа будет читать эту лекцию.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Андрей считает, что никто не будет делать это домашнее задание, но я буду ___.
+----
+Андрей считает, что никто не будет делать это домашнее задание, но я буду делать это домашнее задание.
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard
+
+Только Петя будет ___.
+----
+Только Петя будет ехать в Москву.
+B: Kто будет ехать в Москву? 
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Я ___ в этом году.
+----
+Я буду читать курс по типологии в этом году.
+B: Когда ты будешь читать курс по типологии? 
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs
+
+Я всем буду помагать, даже Пете ___ буду ___.
+----
+Я всем буду помагать, даже Пете я буду помагать.
+B: Kому ты будешь помогать? 
+# The Oxford Handbook of Ellipsis
+# added by Khai Willard; edited by Van Holthenrichs

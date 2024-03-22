@@ -1,5 +1,5 @@
-# verbstranding.txt
-# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# verb_stranding.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu> & Van Holthenrichs
 # language: rus
 # Notes: 
 # These are all grammatical examples. The elided positions are indicated by ___.

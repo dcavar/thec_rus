@@ -1,3 +1,9 @@
+# NP_ellipsis_2.txt
+# (C) 2023 by Khai Willard & Van Holthenrichs
+# language: rus
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
 Дина купила своей дочери школьные учебники, а Паша не купил ___.
 ----
 Дина купила своей дочери школьные учебники, а Паша не купил своей дочери школьные учебники.

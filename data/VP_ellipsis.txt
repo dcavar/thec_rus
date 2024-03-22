@@ -1,5 +1,5 @@
 # VP_ellipsis.txt
-# All examples by Van Holthenrichs & Maria Shardakova
+# Most examples by Van Holthenrichs & Maria Shardakova
 # language: rus
 # Notes:
 # These are all grammatical examples. The elided positions are indicated by ___.
@@ -139,3 +139,21 @@ B: Такое мороженое не хочу!
 ----
 Мне надо убрать гостиную сегодня, а тебе надо убрать гостиную завтра.
 #Van Holthenrichs & Maria Shardakova
+
+Так ли, для этого ли ___? 
+----
+Так ли, для этого ли сошлись?
+B: Мы для чего здесь сошлись? 
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Нет, не для этого ___.
+----
+Нет, не для этого сошлись.
+B: Мы для чего здесь сошлись?  
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
+
+Довольно, не хочу ___! 
+----
+Довольно, не хочу больше играть! 
+A: Не будем больше играть.
+#from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs

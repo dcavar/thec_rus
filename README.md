@@ -21,6 +21,10 @@ Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format
 
 Please use the following snippet to cite our work.
 
+Cavar, Damir and V. Holthenrichs (2024) *NLP Corpus of Ellipsis: Modeling Ellipsis in Slavic.* Paper presented at the Formal Approaches to Slavic Linguistics (FASL) 33. Halifax, Canada.
+
+and
+
 ```bibtex
 @inproceedings{cavar-etal-2024-typology,
     title = "The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications",

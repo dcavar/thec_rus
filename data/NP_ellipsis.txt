@@ -12,9 +12,24 @@
 ----
 Он вдруг сообразил, что ведь он хотел сейчас идти в дом Федора Павловича, узнать, не произошло ли чего у Федора Павловича.
 #from Dostoyevsky's Brother's Karamazov; added by Van Holthenrichs
-#I include this PP ellipsis in with the NP ellipsis
+#I include PP ellipsis in with the NP ellipsis
 
 Подруга всегда реккомедует мне новую музыку, но я ещё слушаю старую ___.
 ----
 Подруга всегда реккомедует мне новую музыку, но я ещё слушаю старую музыку.
+#Van Holthenrichs & Maria Shardakova
+
+У меня день рождения в июне, и у моей сестры тоже ___.
+----
+У меня день рождения в июне, и у моей сестры тоже день рождения в июне.
+#Van Holthenrichs & Maria Shardakova
+
+У нас в городе нет бассейна, а у них есть ___.
+----
+У нас в городе нет бассейна, а у них есть бассейн.
+#Van Holthenrichs & Maria Shardakova
+
+У меня день рождения в июне, а у моей сестры ___ в апреле.
+----
+У меня день рождения в июне, а у моей сестры день рождения в апреле.
 #Van Holthenrichs & Maria Shardakova

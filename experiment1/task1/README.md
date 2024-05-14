@@ -1,4 +1,4 @@
-# The Hoosier Ellipsis Corpus (THEC) - Russian Sub-corpus (thec_rus) - Experiment 1 Data Task 3
+# The Hoosier Ellipsis Corpus (THEC) - Russian Sub-corpus (thec_rus) - Experiment 1 Data Task 1
 
 (C) 2024 [NLP-Lab](http://nlp-lab.org/)
 

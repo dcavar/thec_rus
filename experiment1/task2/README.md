@@ -1,32 +1,18 @@
-# The Hoosier Ellipsis Corpus (THEC) - Russian Sub-corpus (thec_rus)
+# The Hoosier Ellipsis Corpus (THEC) - Russian Sub-corpus (thec_rus) - Experiment 1 Data Task 3
 
 (C) 2024 [NLP-Lab](http://nlp-lab.org/)
 
-Created: 2024-04-10 by [Damir Cavar]
+Created: 2024-05-14 by [Damir Cavar]
 
 Last change: 2024-05-14 by [Damir Cavar]
 
-More details about the [Hoosier Ellipsis Corpus] can be found on the [NLP-Lab] pages. The [GitHub repo](https://github.com/dcavar/hoosierellipsiscorpus) contains links to other languages and useful code and scripts for data processing.
 
-This repo contains the Russian Ellipsis Sub-corpus of THEC.
+This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical {NLP} and {LLM} Approaches*.
 
-Consult the [data format specification](https://nlp-lab.org/ellipsis/data_format) for details about the structure of the files and the annotation standard used.
-
+The Task 2 data consists of ellipsis constructions in Russian. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
 
 
-
-## Maintainer
-- Van Holthenrichs
-- [Damir Cavar]
-
-
-## Citation
-
-Please use the following snippet to cite our work.
-
-Cavar, Damir and V. Holthenrichs (2024) *NLP Corpus of Ellipsis: Modeling Ellipsis in Slavic.* Paper presented at the Formal Approaches to Slavic Linguistics (FASL) 33. Halifax, Canada.
-
-and
+Please cite:
 
 ```bibtex
 @misc{cavar-holthenrichs-2024,

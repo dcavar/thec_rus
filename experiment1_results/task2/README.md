@@ -6,7 +6,7 @@ Created: 2024-05-14 by [Damir Cavar]
 
 Last change: 2024-05-14 by [Damir Cavar]
 
-This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical {NLP} and {LLM} Approaches*.
+This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches*.
 
 
 

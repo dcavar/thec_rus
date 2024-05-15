@@ -7,7 +7,7 @@ Created: 2024-05-14 by [Damir Cavar]
 Last change: 2024-05-14 by [Damir Cavar]
 
 
-This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical {NLP} and {LLM} Approaches*.
+This folder contains the results of experiment 1, as explained in Cavar and Holthenrichs (2024) and Cavar at al. (2024) *Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches*.
 
 The Task 1 data consists of a random mix of constructions with and without ellipsis. The task for an NLP pipeline or an LLM is to guess the position and full form of the elided words, phrases, and other content.
 
